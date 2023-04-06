@@ -1,6 +1,6 @@
 <?php
 
-namespace Xudid\QueryBuilder\Contracts\Request;
+namespace Xudid\QueryBuilderContracts\Request;
 
 interface RequestInterface
 {

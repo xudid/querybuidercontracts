@@ -1,11 +1,11 @@
 <?php
 
-namespace Xudid\QueryBuilder\Contracts;
+namespace Xudid\QueryBuilderContracts;
 
-use Xudid\QueryBuilder\Contracts\Request\DeleteInterface;
-use Xudid\QueryBuilder\Contracts\Request\InsertInterface;
-use Xudid\QueryBuilder\Contracts\Request\SelectInterface;
-use Xudid\QueryBuilder\Contracts\Request\UpdateInterface;
+use Xudid\QueryBuilderContracts\Request\DeleteInterface;
+use Xudid\QueryBuilderContracts\Request\InsertInterface;
+use Xudid\QueryBuilderContracts\Request\SelectInterface;
+use Xudid\QueryBuilderContracts\Request\UpdateInterface;
 
 interface QueryBuilderInterface
 {
