@@ -6,7 +6,7 @@
     "license": "MIT",
     "autoload": {
         "psr-4": {
-            "Xudid\\Querybuildercontracts\\": "src/"
+            "Xudid\\Querybuilder\\Contracts\\": "src/"
         }
     },
     "authors": [
